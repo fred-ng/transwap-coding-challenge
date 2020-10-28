@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Singapore",
+    "isComing": false,
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 2,
+    "name": "Indonesia",
+    "isComing": false,
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 3,
+    "name": "Hongkong",
+    "isComing": false,
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 4,
+    "name": "Malaysia",
+    "isComing": true,
+    "thumbnailUrl": ""
+  },
+  {
+    "id": 5,
+    "name": "United Kingdom",
+    "isComing": true,
+    "thumbnailUrl": ""
+  }
+]
