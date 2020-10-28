@@ -4,31 +4,31 @@
       "id": 1,
       "name": "Singapore",
       "isComing": false,
-      "thumbnailUrl": ""
+      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/sg.svg"
     },
     {
       "id": 2,
       "name": "Indonesia",
       "isComing": false,
-      "thumbnailUrl": ""
+      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/id.svg"
     },
     {
       "id": 3,
       "name": "Hongkong",
       "isComing": false,
-      "thumbnailUrl": ""
+      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/hk.svg"
     },
     {
       "id": 4,
       "name": "Malaysia",
       "isComing": true,
-      "thumbnailUrl": ""
+      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/my.svg"
     },
     {
       "id": 5,
       "name": "United Kingdom",
       "isComing": true,
-      "thumbnailUrl": ""
+      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/uk.svg"
     }
   ]
 }
