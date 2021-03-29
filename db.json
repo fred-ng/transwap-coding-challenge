@@ -4,19 +4,85 @@
       "id": 1,
       "name": "Singapore",
       "isComing": false,
-      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/sg.svg"
+      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/sg.svg",
+      "supportedBanks": [
+        {
+          "id": 1,
+          "name": "DBS Bank",
+          "isActive": true
+        },
+        {
+          "id": 2,
+          "name": "J.P. Morgan Singapore",
+          "isActive": true
+        },
+        {
+          "id": 3,
+          "name": "OCBC Bank",
+          "isActive": false
+        }
+      ]
     },
     {
       "id": 2,
       "name": "Indonesia",
       "isComing": false,
-      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/id.svg"
+      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/id.svg",
+      "supportedBanks": [
+        {
+          "id": 4,
+          "name": "Bank Rakyat",
+          "isActive": true
+        },
+        {
+          "id": 5,
+          "name": "Bank Negara",
+          "isActive": true
+        }
+      ]
     },
     {
       "id": 3,
       "name": "Hongkong",
       "isComing": false,
-      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/hk.svg"
+      "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/hk.svg",
+      "supportedBanks": [
+        {
+          "id": 6,
+          "name": "Bank of China",
+          "isActive": true
+        },
+        {
+          "id": 7,
+          "name": "Hang Seng Bank",
+          "isActive": true
+        },
+        {
+          "id": 8,
+          "name": "Nanyang Commercial Bank",
+          "isActive": false
+        },
+        {
+          "id": 9,
+          "name": "Chong Hing Bank",
+          "isActive": true
+        },
+        {
+          "id": 10,
+          "name": "Shanghai Commercial Bank",
+          "isActive": false
+        },
+        {
+          "id": 11,
+          "name": "Fubon Bank",
+          "isActive": true
+        },
+        {
+          "id": 12,
+          "name": "Dah Sing Bank",
+          "isActive": true
+        }
+      ]
     },
     {
       "id": 4,
@@ -29,6 +95,74 @@
       "name": "United Kingdom",
       "isComing": true,
       "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/uk.svg"
+    }
+  ],
+  "banks": [
+    {
+      "id": 1,
+      "name": "DBS Bank",
+      "hotline": "+65 6878 8888",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/dbs.svg"
+    },
+    {
+      "id": 2,
+      "name": "J.P. Morgan Singapore",
+      "hotline": "+65 6882 2888",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/jpm.svg"
+    },
+    {
+      "id": 3,
+      "name": "OCBC Bank",
+      "hotline": "+65 6363 3333",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/ocbc.png"
+    },
+    {
+      "id": 4,
+      "name": "Bank Rakyat",
+      "hotline": "+62 21 251 0244",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/rakyat.png"
+    },
+    {
+      "id": 5,
+      "name": "Bank Negara",
+      "hotline": "+62 21 305 00046",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/negara.svg"
+    },
+    {
+      "id": 6,
+      "name": "Bank of China",
+      "hotline": "+852 3988 2388",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/bankofchina.png"
+    },
+    {
+      "id": 7,
+      "name": "Hang Seng Bank",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/hangseng.svg"
+    },
+    {
+      "id": 8,
+      "name": "Nanyang Commercial Bank",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/ncb.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Chong Hing Bank",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/chb.png"
+    },
+    {
+      "id": 10,
+      "name": "Shanghai Commercial Bank",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/scb.gif"
+    },
+    {
+      "id": 11,
+      "name": "Fubon Bank",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/funbo.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Dah Sing Bank",
+      "logoUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/dsb.svg"
     }
   ]
 }
