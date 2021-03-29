@@ -19,7 +19,7 @@ Let's say we're developing a feature that allows users to select their own count
 - We're recommended to use material-ui for implementation: https://material-ui.com/
 - Use [react-query](https://react-query.tanstack.com) to manage the response from API
 - Use this endpoint to get a list of the supported countries: https://my-json-server.typicode.com/fred-ng/transwap-coding-challenge/countries
-- The endpoint https://my-json-server.typicode.com/fred-ng/transwap-coding-challenge/banks/${id} to get bank info details
+- The endpoint https://my-json-server.typicode.com/fred-ng/transwap-coding-challenge/banks/{id} to get bank info details
 - Background color `#F2F3FA`
 - Border radius `8px`
 - Border color `#CED0D6`
