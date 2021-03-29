@@ -12,7 +12,7 @@ Let's say we're developing a feature that allows users to select their own count
  
 ### Wireframe
 
-[![N|Solid](https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/wireframe.png)](https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/wireframe.png)
+[![N|Solid](https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/new-wireframe.png)](https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/new-wireframe.png)
 
 ### Requirements
 - The wireframe must be followed 
